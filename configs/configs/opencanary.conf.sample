@@ -1,1 +1,8 @@
 
+[opencanary]
+hostname = honeypot
+logtype = json
+
+[ssh]
+enabled = true
+port = 22
